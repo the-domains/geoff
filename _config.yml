@@ -1,0 +1,23 @@
+name: Geoff
+favicon: null
+layout_spectrum: 0.7394339914899319
+typography_spectrum: 0.8420581221580505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8625737281981856
+  lightness: 0.21220193803310394
+  saturation: 0.8679355853237212
+  rhythmicContrast: 0.8796464106999338
+purpose: []
