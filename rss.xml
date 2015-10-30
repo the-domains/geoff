@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Geoffrey Byers]]></title>
         <description><![CDATA[Geoffrey Byers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geoff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 18:53:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 21:56:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geoff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AI Websites That Design Themselves]]></title>
-            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"></article>]]></description>
-            <link>https://thegrid.io/</link>
-            <guid isPermaLink="false">8ddd5df1-a491-4f0c-aad5-2f2841e89d29</guid>
-            <pubDate>Sun, 25 Oct 2015 18:52:58 GMT</pubDate>
+            <title><![CDATA[Color Psychology: The Complete Guide for Marketers]]></title>
+            <description><![CDATA[<article><h1>Color Psychology: The Complete Guide for Marketers</h1><p>Welcome to the most comprehensive resource on color psychology. If you're only interested in learning color meanings, you can skip to this table. However, this article explores color psychology in much greater detail - with many other practical applications. Until now, most of the information on color has been plagued with pseudoscience (i.e., pure anecdotal hooey).</p><img src="http://www.nickkolenda.com/wp-content/uploads/2015/10/full-color-table2.png"></article>]]></description>
+            <link>http://www.nickkolenda.com/color-psychology/</link>
+            <guid isPermaLink="false">80547366-8f81-45f1-ae4f-93e1552c06ee</guid>
+            <pubDate>Fri, 30 Oct 2015 21:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Developing In Stockfighter With No Trading Experience]]></title>
+            <description><![CDATA[<article><h1>Developing In Stockfighter With No Trading Experience</h1><p>Starfighter is a company which makes fun programming challenges. One of our goals is inspiring engineers to take a whack at problems they might assume are "too difficult for me." Both sets of levels for our first game, Stockfighter, give copious opportunities for this: one set has you do algorithmic trading and one set has you do low-level C and assembly coding, reverse engineering, and security research.</p><img src="http://b0658b2ef7851b41b9c2-100d1091529efd563612e409ee60466b.r39.cf1.rackcdn.com/img/stockfighter-blotter-screenshot.png"></article>]]></description>
+            <link>http://www.kalzumeus.com/2015/10/30/developing-in-stockfighter-with-no-trading-experience/</link>
+            <guid isPermaLink="false">67aa62ef-673d-486d-b3c6-e66143f98602</guid>
+            <pubDate>Fri, 30 Oct 2015 21:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
